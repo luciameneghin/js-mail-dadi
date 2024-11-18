@@ -26,4 +26,4 @@ Consentire solo l’inserimento di dati validi
 - Dadi 
 1. Creo due variabili vuote, una per il giocatore e l'altra per il PC
 2. con il loop while genero un numero random da 1 a 6. Uno per il giocatore e uno per il pc
-3. messaggio di vittoria o perdita in base a chi ha estratto il numero più alto
+3. messaggio di vittoria o perdita in base a chi ha estratto il numero più alto (If .... else ) + in caso di parità:
