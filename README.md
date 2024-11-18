@@ -18,11 +18,12 @@ Consentire solo l’inserimento di dati validi
 - Mail
 1. creare un'array mailVerificate, con all'interno un numero X di email
 2. prompt con richiesta inserimento mail 
-    - IF l'email è all'interno della lista mailVerificate -> stampo messaggio positivo (l'email da lei inserita è valida)
+3. creo un ciclo for, con all'interno un
+    - IF l'email che inserisco all'interno del prompt è all'interno della lista mailVerificate ->      stampo messaggio positivo (l'email da lei inserita è valida)
     - ELSE stampo messaggio negativo (l'email da lei inserita NON è valida)
     - o loop do... while(?)
 
 - Dadi 
 1. Creo due variabili vuote, una per il giocatore e l'altra per il PC
-2. con il ciclo for genero un numero random da 1 a 6. Uno per il giocatore e uno per il pc
+2. con il loop while genero un numero random da 1 a 6. Uno per il giocatore e uno per il pc
 3. messaggio di vittoria o perdita in base a chi ha estratto il numero più alto
